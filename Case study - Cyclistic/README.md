@@ -1,11 +1,11 @@
-# Estudo de caso - Cyclistic
- Estudo de caso de análise de dados, com utilização das ferramentas R, para manipulação e análise inicial dos dados e Power BI para visualização.
+# Case study - Cyclistic
+ Data analysis case study, using language R, for data manipulation and inicial analysis, and Power BI for visualization.
  
- Esse estudo de caso contém os seguintes arquivos:
-   1. **cyclistic.R:** código R da manipulação e análise inicial dos dados.
-   2. **R-Markdown_Cyclistic.html:** arquivo Markdown do código R, com explicação passo a passo do desenvolvimento.
-   3. **Relatório estudo de caso - Cyclistic.pdf:** detalhamento de todo o processo de análise de dados do estudo de caso em questão.
+ This case study contains the following files:
+   1. **cyclistic.R:** R code, with data manipulation and inicial analysis.
+   2. **R-Markdown_Cyclistic.html:** R Markdown file, with step-by-step explanation of the R code.
+   3. **Case study report - Cyclistic.pdf:** Report detailing the entire case study data analysis process.
    
-Não é possível compartilhar o arquivo de dashboard no GitHub, portanto adicionei um link no Google Drive para acesso.
+It's not possible to share the dashboard file (Power BI) in GitHub, so I added a link in Goolge Drive for access.
 
-Link para acesso ao arquivo .pbix (Power BI): https://drive.google.com/file/d/1-1HETuCKYU53yur8-BJ5KlckjS-gslzj/view?usp=sharing
+Link for .pbix file access (Power BI): https://drive.google.com/file/d/1-G_J0q-sMvgHEN2iTdRqMUPf70sfWMA3/view?usp=sharing
