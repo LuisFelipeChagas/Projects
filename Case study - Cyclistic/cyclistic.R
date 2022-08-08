@@ -9,7 +9,7 @@ library('hms')
 
 # Merging files .csv into one single file. 
 
-bikes_data = list.files('C:\\Users\\luisf\\Desktop\\database\\database_month',
+bikes_data = list.files('C:\\Users\\luisf\\Desktop\\database\\database_by_month',
                         pattern='*.csv', full.names = TRUE) %>% 
   lapply(read_csv) %>% 
   bind_rows
